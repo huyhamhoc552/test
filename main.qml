@@ -11,8 +11,12 @@ Window {
         width:50
         height: 50
     }
+    // aadasdasd
+    //asdasdasdsadsad
     Text {
         id: hehe
         text: qsTr("text")
     }
+    // aadasdasd
+    //asdasdasdsadsad
 }
