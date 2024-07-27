@@ -19,6 +19,10 @@ Window {
         }
     }
 
+    Text {
+        id: abcd
+        text: qsTr("text")
+    }
     ListView {
         x:50
         y: 50
