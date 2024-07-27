@@ -18,7 +18,6 @@ Window {
             name : "aa"
         }
     }
-
     Text {
         id: abcd
         text: qsTr("text")
