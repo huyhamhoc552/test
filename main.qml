@@ -22,6 +22,14 @@ Window {
         id: abcd
         text: qsTr("texheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet")
     }
+    Rectangle {
+        x: 50
+        y: 50
+        width : 50
+        height : 50
+
+    }
+
     ListView {
         x:50
         y: 50

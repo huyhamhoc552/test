@@ -645,7 +645,8 @@ compiler_rcc_clean:
 	-$(DEL_FILE) qrc_qml.cpp
 qrc_qml.cpp: ../../qml.qrc \
 		../../../Qt/5.15.2/gcc_64/bin/rcc \
-		../../main.qml
+		../../main.qml \
+		../../hehe.qml
 	/home/huy/Qt/5.15.2/gcc_64/bin/rcc -name qml ../../qml.qrc -o qrc_qml.cpp
 
 compiler_moc_predefs_make_all: moc_predefs.h
