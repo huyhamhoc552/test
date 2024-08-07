@@ -20,7 +20,7 @@ Window {
     }
     Text {
         id: abcd
-        text: qsTr("text")
+        text: qsTr("texheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet")
     }
     ListView {
         x:50
